@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Work-In-Progress Game Coder Site"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Once I'm more situated in Github I'll be posting long segments of code for people to test and try ...
